@@ -10,7 +10,7 @@
 # dependencies
 /node_modules
 /angular-admin/node_modules
-/net-admin/node_modules
+/nest-admin/node_modules
 
 # profiling files
 chrome-profiler-events*.json
@@ -18,10 +18,10 @@ speed-measure-plugin*.json
 
 # IDEs and editors
 /angular-admin/.idea
-/net-admin/.idea
+/nest-admin/.idea
 /.idea
 /angular-admin/.project
-/net-admin/.project
+/nest-admin/.project
 .project
 .classpath
 .c9/
